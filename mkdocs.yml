@@ -1,0 +1,4 @@
+site_name: The Changout
+pages:
+- Home: index.md
+- About: about.md
